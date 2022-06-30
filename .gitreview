@@ -1,0 +1,5 @@
+[gerrit]
+host=review.calyxos.org
+port=29418
+project=CalyxOS/vendor_nxp_opensource_sn100x_hidlimpl
+defaultbranch=android12L
